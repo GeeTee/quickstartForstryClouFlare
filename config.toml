@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "./"
+baseURL = "https://quickstartforstryclouflare.pages.dev/"
 languageCode = "fr-fr"
 theme = "ananke"
 
